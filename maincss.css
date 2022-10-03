@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: black;
+    margin-left: 20px;
+    text-align: center;
+    font-family: fantasy;
+  }
+
+  button{
+    background-color: burlywood;
+    border: : black;
+    color: black;
+    padding: 10px;
+    font-size: 20px;
+    cursor:pointer;
+
+  }
+
+  center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%
+  }
